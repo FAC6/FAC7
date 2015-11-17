@@ -15,7 +15,6 @@ For each week in turn, outline the following:
 ## Raise issues
 + 10 mins in pairs
 + 10 mins in pairs of pairs
-+ 10 mins in pairs of pairs of pairs
 + 10 mins whole class 
 
 In each case, one person to take notes and leave a comment on the relevant issue
