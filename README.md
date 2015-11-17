@@ -22,3 +22,9 @@ For each week in turn, outline the following:
 In each case, one person to take notes and leave a comment on the relevant issue.
 
 After open discussions, write the prototypal week structure in the curriculum folder.
+
+## Project leaders
+
+Please see link below to signup to weeks / morning challenges you're interested in running
+
+https://docs.google.com/spreadsheets/d/1nilFYYZpOBgpPz9QPTS9QTTRJQldFDtVYZXYfHqtW9A/edit#gid=0
