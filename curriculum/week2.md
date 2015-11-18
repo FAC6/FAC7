@@ -5,7 +5,7 @@ reading tbc
 
 ## Monday:
 workshop on front end tests
-  * 10-11:30 functional programming morning challenge
+  * 10-11:30 functional programming morning challenge 
   * 11:30-13 intro to TDD and QUnit with example, how to set up, see simpletests.html.
   * 14-18 [Vending Machine](https://github.com/dwyl/learn-tdd), this is alot of time can we add anyting extra?. 
 
