@@ -2,7 +2,7 @@
 #Week 1 Structure:
 At some point: Lightning talk like marks on community and imposter syndrome.
 
-Maybe give FAC7 the option to know the project on day1 so that they understand the link 
+Maybe give FAC7 the option to know the project on day1 so that they understand the link.
 
 #####Day 1: Git/GitHub workshop:
 
