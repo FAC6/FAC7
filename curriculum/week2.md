@@ -38,13 +38,12 @@ workshop on front end tests
   10-11:30 fix our failing tests morning challenge, to show the value of TDD, still need to write.   
   11:30 introduce the stopwatch. The idea is to follow the TDD cycle to create a stop watch, using ping pong.  
   Split into your groups of 4. Then pair up within that group.   
-  
-    * Both pairs write tests which fail  
-    * pass them onto the other pair which makes them pass.  
-    * follow tutorial with this ping/pong format.   
-    * great project with TDD ingrained into there brain!!!!  
-    * stretch goals, countdown timer, split timmer, any other functionality eg, translator.  
-    * Add as much functionality as you like! you can go your own way  
+  * Both pairs write tests which fail  
+  * pass them onto the other pair which makes them pass.  
+  * follow tutorial with this ping/pong format.   
+  * great project with TDD ingrained into there brain!!!!  
+  * stretch goals, countdown timer, split timmer, any other functionality eg, translator.  
+  * Add as much functionality as you like! you can go your own way  
 
 ## Thursday:  
   Carry On!!!
