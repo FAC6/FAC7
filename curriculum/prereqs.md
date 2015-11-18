@@ -1,30 +1,41 @@
-## Pre-course
+# Pre-course
 
-Gethin, Huw, Jack and Katerina's prototype for FAC7 onwards pre-reqs and pre-course structure.
+Gethin(jumped ship), Huw, Jack and Katerina's prototype for FAC7 onwards pre-reqs and pre-course structure.
 
-## Application pre-requisites structure
+### Why do we have pre-requisites for a course aimed at beginners?
+We think there are some amazing free resources out there for learning basic programming online. In general, programming languages take a while to get the hang of. We feel that once you've grasped these initial concepts we can quickly build on this and teach you the skills you'll need to work as a full time developer.
 
-### Pre-requisites
-If you’re not as this standard by the time the course starts you will struggle. These tasks are predominantly how we’ll measure you as a candidate for the course.
+# Application pre-requisites structure
 
-If you are new to coding, run through these Codecademy tracks first (in this order):
+## Pre-requisites
+
+We've chosen these resources as our application criteria. If you’re not comfortable coding at this standard by the time the course starts you may struggle. These tasks are part of how we’ll measure whether you're a good candidate for the course as well as whether you can learn in the collaborative environment here.
+
+#### Complete Beginners
+
+If you are completely new to coding, run through these Codecademy tracks first (in this order).
 * [HTML & CSS](https://www.codecademy.com/learn/web)
 * [Make a Website](https://www.codecademy.com/en/skills/make-a-website)
 * [Javascript](https://www.codecademy.com/learn/javascript)
 * [Make an Interactive Website](https://www.codecademy.com/en/skills/make-an-interactive-website) (?? find a better one)
 * [YouTube API](https://www.codecademy.com/en/tracks/youtube)
 
-If you've done HTML and CSS before, don't worry about running through that track because you may already know the content.
+We're not looking for a row of 100% completed tracks, if you've studied this before you can skip sections but you will need to understand the full content above.
 
 After those tracks, run through [CSS Diner](http://flukeout.github.io/) (we love this!), to reinforce CSS selectors.
 
-Before going onto Codewars to train your Javascript skills, which is a jump up from Codecademy, read chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf). It's helpful for understanding functions and their uses in Javascript. We've written our own guide to Codecademy and Codewars [here](https://github.com/codingforeveryone/learning-with-codewars-and-codecademy), which will hopefully help you on your way.
+#### Codewars
+We want you to reach at least **5kyu**. This is going to take a minimum of 3 weeks and more likely a few months depending on how much time you can spend working on it.  
+
+It takes a while to get the hang of Codewars (it's quite different to and a jump up from Codecademy). We've written our own guide to Codecademy and Codewars [here](https://github.com/codingforeveryone/learning-with-codewars-and-codecademy), which will help you on your way.
+
+You might feel like you need more preparation. If so, take a look at chapters 1-4 of [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf).  It's helpful for understanding functions and their uses in Javascript and builds nicely on where Codecademy ends.
 
 // find a video for understanding functions to bridge gap
 
-After that, you should be ready for having a go at Codewars. If you find yourself struggling, come along to our Monday evening meetups where we can help. We also run Coding for Women on every other Tuesday.  
+If you find yourself struggling or want to meet other learners, come along to our Monday evening meetups where we can help. We also run Coding for Women on every other Tuesday.  
 
-On Codewars, you will need to reach 5th kyu before the start of the course, and write at least one kata.
+??and write at least one kata.
 
 Finally, sign up to Stack Overflow and look at some answers given for Javascript questions. The community can be a little intolerant of duplicated questions, so we'll brief on the techniques for asking questions when you arrive. Come join our Gitter channel where we chat about Codewars, Codecademy and other learning resources.
 
