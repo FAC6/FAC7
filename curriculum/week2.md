@@ -1,5 +1,7 @@
 This will take place on week 2
 
+We can only start planning this week properly once we ourselves have had experience of doing TDD on real life projects and on our own work. So plan this week in dec/jan potentially. can't really plan something we haven't done.
+
 pre week home work:
 reading tbc
 
