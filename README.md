@@ -25,6 +25,6 @@ After open discussions, write the prototypal week structure in the curriculum fo
 
 ## Project leaders
 
-Please see link below to signup to weeks / morning challenges you're interested in running
+Please see link below to signup to weeks / morning challenges you're interested in running:
 
 https://docs.google.com/spreadsheets/d/1nilFYYZpOBgpPz9QPTS9QTTRJQldFDtVYZXYfHqtW9A/edit?usp=sharing
