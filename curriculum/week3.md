@@ -77,12 +77,13 @@ External referencing is good rather than copy & pasting
 
 ### Project
 
-Only use open access APIs. As we are working with the front-end, we should not expose keys.
+Project basically the same as last year.
+Only use open access APIs. As we are working with the front-end, we should not expose keys. Examples include Guardian, Radio 1, parts of Facebook, Wikipedia(Difficult). 
 
-Guardian, Radio 1. Codewars API ??
+Codewars API. Not sure if this needs access keys or not??
 
 ### Morning Challenges
 
 - Last time morning challenges: https://github.com/foundersandcoders/morning-challenge
 
--  Additional JSON object could be to filter through JSON object
+-  Additional challenge could use  filter through JSON object
