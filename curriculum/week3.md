@@ -71,12 +71,18 @@ External referencing is good rather than copy & pasting
 
 ### Day Workshop Idea
 
-1) XMLHTTP XHR API request walkthrough
+1) First hour of the day AJAX XMLHTTP XHR API request walkthrough
 
-2) cUrl/Postman/Apigee requests A couple of hours to use
+2) Last few hours of the day cUrl/Postman/Apigee requests A couple of hours to use.
+
+### Project
+
+Only use open access APIs. As we are working with the front-end, we should not expose keys.
+
+Guardian, Radio 1. Codewars API ??
 
 ### Morning Challenges
 
-Last time morning challenges: https://github.com/foundersandcoders/morning-challenge
+- Last time morning challenges: https://github.com/foundersandcoders/morning-challenge
 
--  Filter through JSON object
+-  Additional JSON object could be to filter through JSON object
