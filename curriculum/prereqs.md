@@ -5,11 +5,11 @@ Gethin(jumped ship), Huw, Jack and Katerina's prototype for FAC7 onwards pre-req
 ### Why do we have pre-requisites for a course aimed at beginners?
 We think there are some amazing free resources out there for learning basic programming online. In general, programming languages take a while to get the hang of. We feel that once you've grasped these initial concepts we can quickly build on this and teach you the skills you'll need to work as a full time developer.
 
-# Application pre-requisites structure
+# Entrance pre-requisites structure
 
 ## Pre-requisites
 
-We've chosen these resources as our application criteria. If you’re not comfortable coding at this standard by the time the course starts you may struggle. These tasks are part of how we’ll measure whether you're a good candidate for the course as well as whether you can learn in the collaborative environment here.
+We've chosen these resources as our entrance criteria. If you’re not comfortable coding at this standard by the time the course starts you may struggle. These tasks are part of how we’ll measure whether you're a good candidate for the course as well as whether you can learn in the collaborative environment here. You do not need to have completed the pre-requisites before you send in your application, but you should at least have made a good start on them. 
 
 #### Complete Beginners
 
@@ -25,7 +25,7 @@ We're not looking for a row of 100% completed tracks, if you've studied this bef
 After those tracks, run through [CSS Diner](http://flukeout.github.io/) (we love this!), to reinforce CSS selectors.
 
 #### Codewars
-We want you to reach at least **5kyu**. This is going to take a minimum of 3 weeks and more likely a few months depending on how much time you can spend working on it.  
+We want you to reach at least **5kyu** on [codewars](http://codewars.com). This is going to take a minimum of 3 weeks and more likely a few months depending on how much time you can spend working on it.  
 
 It takes a while to get the hang of Codewars (it's quite different to and a jump up from Codecademy). We've written our own guide to Codecademy and Codewars [here](https://github.com/codingforeveryone/learning-with-codewars-and-codecademy), which will help you on your way.
 
@@ -33,7 +33,7 @@ You might feel like you need more preparation. If so, take a look at chapters 1-
 
 // find a video for understanding functions to bridge gap
 
-If you find yourself struggling or want to meet other learners, come along to our Monday evening meetups where we can help. We also run Coding for Women on every other Tuesday.  
+If you find yourself struggling or want to meet other learners, come along to our [Monday evening meetups](www.meetup.com/founderscoders/) where we can help. We also run Coding for Women on every other Tuesday.  
 
 ??and write at least one kata.
 
