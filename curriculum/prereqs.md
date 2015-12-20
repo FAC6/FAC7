@@ -77,4 +77,5 @@ Anything with Douglas Crockford in!
 ## Before you arrive (after course offer)
 
 * [Learn Git](https://www.codecademy.com/learn/learn-git)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
