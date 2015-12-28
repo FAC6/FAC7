@@ -23,6 +23,8 @@ Maybe give FAC7 the option to know the project on day1 so that they understand t
 -- Development Basics 
 -- Project Management and Dom Manipulation
 
+-- CAN WE HAVE A MORNING CHALLENGE LIKE WE DID OF CREATING A CSS GRID LAYOUT. THAT WILL HELP.
+
 #####Day 3-4: Project days:
 Team Blog:
 Dom manipulation: 
