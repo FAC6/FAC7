@@ -1,48 +1,50 @@
 This will take place on week 2
 
-We can only start planning this week properly once we ourselves have had experience of doing TDD on real life projects and on our own work. So plan this week in dec/jan potentially. can't really plan something we haven't done.
+We can only start planning this week properly once we ourselves have had experience of doing TDD on real life projects and on our own work. So plan this week in dec/jan potentially.
 
 pre week home work:
-reading tbc
+What is TDD? 
 
 ## Monday:
 ### Front End testing
-  * 10-11:30 Morning challenge test the functions yesterdays morning challenge
+  * 10-11:30 Morning challenge write the functions to pass the tests in a environment set up with Qunit, see simpletests.html.
+  * questions start with easy questions and increase in difficulty (RUTH TO WRITE, CONOR TO INTRO)
   
-### learning objectives
+### learning objectives  (CONOR)
 #### Qunit
     * Study the QUnit assertions - which ones did you find most useful? 
     * Read documentation
+    * Synchronous and asynchronous testing
+    * build more complete tests
   
-#### Synchronous and asynchronous testing
+####  Jasmine
     * What is this
-    * find examples using Qunit
-    * Qunit callbacks (hint) ;)
+    * Build us an example test / tests
   
 #### What is TDD
     * TDD life cycle
     * Red Green Refactor (Why is this useful)
+    * make sure your examples include real tests
     
   
 #### Unit and Integration Testing
     * What are the differnces
     * Continous integration 
     * What are the pros and cons
+    * show us examples of each
 
 ## Tuesday:
-workshop on front end tests
-  * 10-11:30 functional programming morning challenge 
-  * 11:30-13 intro to TDD and QUnit with example, how to set up, see simpletests.html.
-  * 14-18 [Vending Machine](https://github.com/dwyl/learn-tdd), this is alot of time can we add anyting extra?. 
 
+  * 10-11:30 functional programming morning challenge, does not have to be related to testing. (MATT)
+  * 11:30-13 Roman Numerals workshop, code along. use ping pong (RUTH, CONOR)
+  * 14-18 [Vending Machine](https://github.com/dwyl/learn-tdd), can you use ping pong ?. (RUTH, CONOR)
+  * time? add 8th light talk, on the broader importance of testing and paired programming, (dont use Numerals tutorials)
 
-
- 
 ## Wednesday:
-  10-11:30 fix our failing tests morning challenge, to show the value of TDD, still need to write.   
-  11:30 introduce the stopwatch. The idea is to follow the TDD cycle to create a stop watch, using ping pong.  
+  10-11:30 write tests for our functions (qunit or jasmine), to show the value of TDD, still need to write.   (NAAZ, RUTH)
+  11:30 introduce the stopwatch. The idea is to follow the TDD cycle to create a stop watch, using ping pong.  (NAAZ, RUTH)
   Split into your groups of 4. Then pair up within that group.   
-  * Both pairs write tests which fail  
+  * Both pairs write tests which fail. 
   * pass them onto the other pair which makes them pass.  
   * follow tutorial with this ping/pong format.   
   * great project with TDD ingrained into there brain!!!!  
