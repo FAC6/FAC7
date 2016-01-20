@@ -1,6 +1,3 @@
-This will take place on week 2
-
-We can only start planning this week properly once we ourselves have had experience of doing TDD on real life projects and on our own work. So plan this week in dec/jan potentially.
 
 pre week home work:
 What is TDD? 
@@ -32,6 +29,8 @@ What is TDD?
     * Continous integration 
     * What are the pros and cons
     * show us examples of each
+    
+#### Talk by eigth light on paired programming
 
 ## Tuesday:
 
